@@ -12,7 +12,7 @@ public class Solution {
             int j = 1;
             while(j <= 10)
             {
-                System.out.println(i*j++ + " ");
+                System.out.print(i*j++ + " ");
             }
             System.out.println();
 
